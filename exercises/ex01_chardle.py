@@ -1,4 +1,4 @@
-"""Wordle Coding Assignment."""
+"""Wordle Coding Assignment WD."""
 
 __author__ = "730394476"
 
